@@ -1,0 +1,7 @@
+{
+  "name": "dancify-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
